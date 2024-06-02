@@ -2,7 +2,7 @@
 
 ## Creates a new user account in Microsoft 365
 
-# Instructions
+### Instructions
 
 1. install the microsoft graph powershell module
 2. import the module to create user accounts in Microsoft 365

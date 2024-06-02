@@ -1,4 +1,6 @@
-# Creates a new user account in Microsoft 365
+# Manage Microsoft 365 User
+
+## Creates a new user account in Microsoft 365
 
 # Instructions
 
